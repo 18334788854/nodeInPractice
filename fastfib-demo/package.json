@@ -1,0 +1,29 @@
+{
+  "name": "fastfib-demo",
+  "version": "0.1.0",
+  "description": "Calculates a fabonacci number as fast as possible.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test && node benchmark"
+  },
+  "keywords": [
+    "fibonacci",
+    "fast"
+  ],
+  "author": "xingjian",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "benchmark": "2.1.4"
+  },
+  "bin": {
+    "fastfib": "./bin/index.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

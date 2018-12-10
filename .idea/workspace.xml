@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a09d12a-5f1b-4cd2-92e6-cd6393864152" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2120441293">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="40" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="5" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="DBF" value="1" />
+          <entry key="bat" value="1" />
+          <entry key="csv" value="4" />
+          <entry key="db" value="3" />
+          <entry key="gz" value="1" />
+          <entry key="html" value="8" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="236" />
+          <entry key="jshintrc" value="1" />
+          <entry key="json" value="29" />
+          <entry key="lock" value="1" />
+          <entry key="log" value="1" />
+          <entry key="pem" value="3" />
+          <entry key="txt" value="12" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="2" />
+          <entry key="HTML" value="8" />
+          <entry key="Image" value="2" />
+          <entry key="JSHint" value="1" />
+          <entry key="JSON" value="29" />
+          <entry key="JavaScript" value="236" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="YAML" value="1" />
+          <entry key="yarn.lock" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="31" />
+          <entry key="csv" value="104" />
+          <entry key="db" value="84" />
+          <entry key="html" value="67" />
+          <entry key="js" value="35868" />
+          <entry key="jshintrc" value="38" />
+          <entry key="json" value="393" />
+          <entry key="txt" value="68" />
+          <entry key="yml" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="67" />
+          <entry key="JSHint" value="38" />
+          <entry key="JSON" value="393" />
+          <entry key="JavaScript" value="35868" />
+          <entry key="PLAIN_TEXT" value="287" />
+          <entry key="YAML" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fastfib-demo/bin/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fastfib-demo/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RedisClient</find>
+      <find>RedisClient.prototype</find>
+      <find>set</find>
+      <find>.set</find>
+      <find>lib/in</find>
+      <find>auth</find>
+      <find>auth_pass</find>
+      <find>Readab</find>
+      <find>filter</find>
+      <find>Benchmark.filter</find>
+      <find>Benchmark</find>
+      <find>routes</find>
+      <find>allowedmeth</find>
+      <find>prototype.url</find>
+      <find>url</find>
+      <find>methods</find>
+      <find>use</find>
+      <find>createSequence</find>
+      <find>sequence_api</find>
+      <find>createSequence()</find>
+      <find>iterable</find>
+      <find>origins</find>
+      <find>applyPluginsAsync</find>
+      <find>main</find>
+      <find>webpack_re</find>
+      <find>webpack_require</find>
+      <find>5</find>
+      <find>/* 5</find>
+      <find>goTo</find>
+      <find>configur</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/example-yarn-package" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testModule/assert1.js" />
+        <option value="$PROJECT_DIR$/testModule/assert2.js" />
+        <option value="$PROJECT_DIR$/testModule/assertError1.js" />
+        <option value="$PROJECT_DIR$/testModule/assertError2.js" />
+        <option value="$PROJECT_DIR$/testModule/assertError3.js" />
+        <option value="$PROJECT_DIR$/testModule/itFunction.js" />
+        <option value="$PROJECT_DIR$/testModule/testExample.js" />
+        <option value="$PROJECT_DIR$/testModule/index.js" />
+        <option value="$PROJECT_DIR$/testModule/test/mocha1.js" />
+        <option value="$PROJECT_DIR$/testModule/test/mocha2.js" />
+        <option value="$PROJECT_DIR$/testModule/server.js" />
+        <option value="$PROJECT_DIR$/testModule/test/mocha3.js" />
+        <option value="$PROJECT_DIR$/testModule/package.json" />
+        <option value="$PROJECT_DIR$/testModule/test/tap1.js" />
+        <option value="$PROJECT_DIR$/travis-example/test.js" />
+        <option value="$PROJECT_DIR$/travis-example/.travis.yml.js" />
+        <option value="$PROJECT_DIR$/travis-example/travis.yml" />
+        <option value="$PROJECT_DIR$/testModule/assertSql.js" />
+        <option value="$PROJECT_DIR$/testModule/test.js" />
+        <option value="$PROJECT_DIR$/debug-demos/app.js" />
+        <option value="$PROJECT_DIR$/testModule/assertORM.js" />
+        <option value="$PROJECT_DIR$/testModule/sinom.js" />
+        <option value="$PROJECT_DIR$/testModule/assertSinon.js" />
+        <option value="$PROJECT_DIR$/exception/uncaughtException.js" />
+        <option value="$PROJECT_DIR$/exception/domainExecute.js" />
+        <option value="$PROJECT_DIR$/exception/.jshintrc" />
+        <option value="$PROJECT_DIR$/exception/package.json" />
+        <option value="$PROJECT_DIR$/exception/nodeDebug.js" />
+        <option value="$PROJECT_DIR$/exception/profApplication.js" />
+        <option value="$PROJECT_DIR$/exception/leak.js" />
+        <option value="$PROJECT_DIR$/exception/replExample1.js" />
+        <option value="$PROJECT_DIR$/exception/repl-tcp.js" />
+        <option value="$PROJECT_DIR$/exception/repl-client.js" />
+        <option value="$PROJECT_DIR$/exception/repl/httpService.js" />
+        <option value="$PROJECT_DIR$/exception/repl/repl-client.js" />
+        <option value="$PROJECT_DIR$/exception/repl/repl-app.js" />
+        <option value="$PROJECT_DIR$/exception/processMonitor.js" />
+        <option value="$PROJECT_DIR$/exception/proxy/http-proxy.js" />
+        <option value="$PROJECT_DIR$/exception/proxy/http.js" />
+        <option value="$PROJECT_DIR$/exception/proxy/ws-proxy.js" />
+        <option value="$PROJECT_DIR$/exception/proxy/multiplyProxy.js" />
+        <option value="$PROJECT_DIR$/exception/cluster/clusterApp.js" />
+        <option value="$PROJECT_DIR$/exception/cluster/app.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/lib/recurse.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/test/index.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/lib/tail.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/lib/iter.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/benchmark/index.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/index.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/bin/index.js" />
+        <option value="$PROJECT_DIR$/fastfib-demo/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/exception/node_modules" />
+    <handled-path value="$PROJECT_DIR$/fastfib-demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/debug-demos/package.json" />
+      <path value="$PROJECT_DIR$/example-yarn-package/package.json" />
+      <path value="$PROJECT_DIR$/exception/package.json" />
+      <path value="$PROJECT_DIR$/fastfib-demo/package.json" />
+      <path value="$PROJECT_DIR$/first-project/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/serverApp/package.json" />
+      <path value="$PROJECT_DIR$/testModule/package.json" />
+      <path value="$PROJECT_DIR$/travis-example/package.json" />
+      <path value="$PROJECT_DIR$/webApplication/package.json" />
+      <path value="$PROJECT_DIR$/webpack-demo/package.json" />
+      <path value="$PROJECT_DIR$/yarn-demo/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nodeInPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeInPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nodeInPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="fastfib-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nodeInPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeInPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="fastfib-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/testModule/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\nodeInPractice\exception\repl" />
+      <recent name="F:\nodeInPractice\webpack-demo\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.clusterApp.js">
+    <configuration name="clusterApp.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="clusterApp.js" working-dir="$PROJECT_DIR$/exception/cluster">
+      <method v="2" />
+    </configuration>
+    <configuration name="domainExecute.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="domainExecute.js" working-dir="$PROJECT_DIR$/exception">
+      <method v="2" />
+    </configuration>
+    <configuration name="http.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="http.js" working-dir="$PROJECT_DIR$/exception/proxy">
+      <method v="2" />
+    </configuration>
+    <configuration name="uncaughtException.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="uncaughtException.js" working-dir="$PROJECT_DIR$/exception">
+      <method v="2" />
+    </configuration>
+    <configuration name="link" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/exception/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="link" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.uncaughtException.js" />
+      <item itemvalue="Node.js.domainExecute.js" />
+      <item itemvalue="npm.link" />
+      <item itemvalue="Node.js.http.js" />
+      <item itemvalue="Node.js.clusterApp.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.clusterApp.js" />
+        <item itemvalue="Node.js.http.js" />
+        <item itemvalue="npm.link" />
+        <item itemvalue="Node.js.domainExecute.js" />
+        <item itemvalue="Node.js.uncaughtException.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a09d12a-5f1b-4cd2-92e6-cd6393864152" name="Default" comment="" />
+      <created>1520994971346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520994971346</updated>
+      <workItem from="1520994972647" duration="6749000" />
+      <workItem from="1521085197835" duration="10291000" />
+      <workItem from="1521164496800" duration="5289000" />
+      <workItem from="1521267875576" duration="43848000" />
+      <workItem from="1521766600430" duration="3277000" />
+      <workItem from="1522026988563" duration="2398000" />
+      <workItem from="1522112250177" duration="5960000" />
+      <workItem from="1522198752735" duration="4278000" />
+      <workItem from="1522286467787" duration="10448000" />
+      <workItem from="1522371648609" duration="3095000" />
+      <workItem from="1522630699720" duration="3720000" />
+      <workItem from="1522717315115" duration="3240000" />
+      <workItem from="1522803633783" duration="4573000" />
+      <workItem from="1523151289617" duration="556000" />
+      <workItem from="1523236741694" duration="1382000" />
+      <workItem from="1523257155374" duration="3120000" />
+      <workItem from="1523260324311" duration="834000" />
+      <workItem from="1523322295584" duration="2999000" />
+      <workItem from="1523408591451" duration="9961000" />
+      <workItem from="1523495356159" duration="3694000" />
+      <workItem from="1523581003390" duration="9891000" />
+      <workItem from="1523613571242" duration="58000" />
+      <workItem from="1523840789876" duration="16006000" />
+      <workItem from="1524541663043" duration="1226000" />
+      <workItem from="1524618724766" duration="3039000" />
+      <workItem from="1524706841637" duration="1887000" />
+      <workItem from="1524792185499" duration="2525000" />
+      <workItem from="1524878808579" duration="1196000" />
+      <workItem from="1525224789347" duration="940000" />
+      <workItem from="1525251320942" duration="611000" />
+      <workItem from="1525311962119" duration="6801000" />
+      <workItem from="1525399339930" duration="1829000" />
+      <workItem from="1525655658810" duration="1176000" />
+      <workItem from="1525657292951" duration="896000" />
+      <workItem from="1525742192107" duration="596000" />
+      <workItem from="1525745864104" duration="599000" />
+      <workItem from="1525748969831" duration="5083000" />
+      <workItem from="1525828766733" duration="590000" />
+      <workItem from="1526262600514" duration="1433000" />
+      <workItem from="1526468400117" duration="1346000" />
+      <workItem from="1539249995691" duration="2521000" />
+      <workItem from="1540712238588" duration="30000" />
+      <workItem from="1540889862756" duration="219000" />
+      <workItem from="1540892498425" duration="51000" />
+      <workItem from="1542695481502" duration="1729000" />
+      <workItem from="1542766279993" duration="4724000" />
+      <workItem from="1542781605984" duration="794000" />
+      <workItem from="1542861490734" duration="1970000" />
+      <workItem from="1543390554107" duration="1467000" />
+      <workItem from="1543394940134" duration="1382000" />
+      <workItem from="1543458522572" duration="1879000" />
+      <workItem from="1543560923146" duration="1249000" />
+      <workItem from="1543660757634" duration="6843000" />
+      <workItem from="1543722391344" duration="3026000" />
+      <workItem from="1543725535033" duration="4133000" />
+      <workItem from="1543738699054" duration="4822000" />
+      <workItem from="1543816041998" duration="11232000" />
+      <workItem from="1543848990196" duration="6043000" />
+      <workItem from="1543899936872" duration="11688000" />
+      <workItem from="1543913316385" duration="4206000" />
+      <workItem from="1543937025686" duration="2789000" />
+      <workItem from="1543991864969" duration="7138000" />
+      <workItem from="1544022255699" duration="9997000" />
+      <workItem from="1544036964859" duration="614000" />
+      <workItem from="1544069699286" duration="2824000" />
+      <workItem from="1544072574238" duration="141000" />
+      <workItem from="1544072738735" duration="159000" />
+      <workItem from="1544082323813" duration="1749000" />
+      <workItem from="1544091017256" duration="962000" />
+      <workItem from="1544103030177" duration="5252000" />
+      <workItem from="1544161682194" duration="10030000" />
+      <workItem from="1544197406177" duration="2249000" />
+      <workItem from="1544247632146" duration="1943000" />
+      <workItem from="1544252166017" duration="2818000" />
+      <workItem from="1544261232394" duration="2677000" />
+      <workItem from="1544266682439" duration="1467000" />
+      <workItem from="1544270343695" duration="126000" />
+      <workItem from="1544272914814" duration="2381000" />
+      <workItem from="1544276079335" duration="9000" />
+      <workItem from="1544281023476" duration="3126000" />
+      <workItem from="1544284773959" duration="5841000" />
+      <workItem from="1544291995736" duration="2366000" />
+      <workItem from="1544333949660" duration="326000" />
+      <workItem from="1544346358044" duration="416000" />
+      <workItem from="1544349619036" duration="787000" />
+      <workItem from="1544364071380" duration="7496000" />
+      <workItem from="1544374859526" duration="3271000" />
+      <workItem from="1544378328299" duration="649000" />
+      <workItem from="1544379657777" duration="3907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="340958000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20343462" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49577168" weight="0.4670571" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49577168" weight="0.32796487" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49788582" weight="0.49926794" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50422835" side_tool="true" weight="0.6149341" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testModule/test/mocha3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testModule/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travis-example/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testModule/test/tap1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travis-example/.travis.yml.js" />
+    <entry file="file://$PROJECT_DIR$/travis-example/travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travis-example/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testModule/node_modules/chai/chai.js" />
+    <entry file="file://$PROJECT_DIR$/testModule/node_modules/chai/package.json" />
+    <entry file="file://$PROJECT_DIR$/testModule/node_modules/chai/index.js" />
+    <entry file="file://$PROJECT_DIR$/testModule/node_modules/chai/lib/chai.js" />
+    <entry file="file://$PROJECT_DIR$/testModule/node_modules/chai/lib/chai/interface/expect.js" />
+    <entry file="file://$PROJECT_DIR$/testModule/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug-demos/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testModule/assertSql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="9" lean-forward="true" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testModule/sinom.js" />
+    <entry file="file://$PROJECT_DIR$/testModule/assertSinon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testModule/assertORM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/uncaughtException.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/domainExecute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/node_modules/jshint/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/.jshintrc" />
+    <entry file="file://$PROJECT_DIR$/exception/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/nodeDebug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/isolate-000000E772CBDF10-v8.log" />
+    <entry file="file://$PROJECT_DIR$/exception/profApplication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/leak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="10" lean-forward="true" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/repl-basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="22" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/repl-tcp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/repl-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/repl/httpService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="28" lean-forward="true" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/repl/repl-app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="20" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/repl/repl-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/processMonitor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/proxy/http-proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/proxy/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/proxy/ws-proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/proxy/multiplyProxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/npm-shrinkwrap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/cluster/clusterApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/cluster/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/lib/recurse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/benchmark/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="31" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/test/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/lib/iter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="5" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/lib/tail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/baudio/bin/cmd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/bin/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastfib-demo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

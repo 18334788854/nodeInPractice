@@ -1,0 +1,23 @@
+{
+  "name": "testmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assert1.js",
+  "scripts": {
+    "mocha": "./node_modules/.bin/mocha test/mocha*.js",
+    "tap": "./node_modules/.bin/tap test/tap*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chalk": "^2.4.1",
+    "mysql": "^2.16.0",
+    "sinon": "^7.1.1",
+    "supertest": "^3.3.0",
+    "tap": "^12.1.0"
+  }
+}

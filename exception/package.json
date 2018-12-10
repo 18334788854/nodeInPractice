@@ -1,0 +1,23 @@
+{
+  "name": "exception",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hink": "jshint *"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.7"
+  },
+  "jshintConfig": {
+    "node": true,
+    "undef": true,
+    "esversion": 6
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-proxy": "^1.17.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "debug-demos",
+  "version": "0.0.0",
+  "description": "A series of demos for debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xingjian",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-route": "^3.2.0"
+  }
+}

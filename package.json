@@ -1,0 +1,28 @@
+{
+  "name": "nodeinpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IOtest.js",
+  "dependencies": {
+    "asynquence": "^0.10.2",
+    "baudio": "^2.1.2",
+    "benchmark": "^2.1.4",
+    "express": "^4.16.3",
+    "jsonstore-js": "^1.2.15",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0",
+    "rabbitmq-nodejs-client": "^0.1.0",
+    "redis": "^2.8.0",
+    "signals": "^1.0.0",
+    "uglify-js": "^3.3.20"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
