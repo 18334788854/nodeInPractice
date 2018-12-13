@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <td>
+            firstname
+        </td>
+        <td>lastname</td>
+        <td>操作</td>
+    </tr>
+</table>
+<button type="button" id="add"><a href="/add">添加</a></button>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+<script>
+    $.get("/getData", function (data, status) {
+        console.log(status);
+        for (let i = 0; i < data.length; i++) {
+            $("tr:last-of-type").after(`<tr><td>${data[i].firstname}</td><td>${data[i].lastname}</td><td></td></tr>`)
+        }
+    });
+    $("#add").click(function () {
+
+    });
+</script>
+</body>
+</html>
