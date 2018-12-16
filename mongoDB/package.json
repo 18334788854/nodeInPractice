@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.3.16"
+    "mongoose": "^5.3.16",
+    "mongodb": "^3.1.10"
   }
 }
