@@ -1,0 +1,15 @@
+{
+  "name": "ignoreissue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpIssue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "querystring": "^0.2.0"
+  }
+}
